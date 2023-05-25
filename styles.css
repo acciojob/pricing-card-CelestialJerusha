@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
- .con1{
-                margin-left: 400px;
+.con1{
+                padding: 50px;
                 border: 1px solid;
                 height: 400px;
                 width: 300px;
@@ -11,4 +11,12 @@
            }
            .con2{
                 text-align: center;
+           }
+           button{
+            background-color: rgb(255, 141, 99);
+            color: white;
+            border-radius: 10px;
+            height: 40px;
+            width: 100px;
+            border-style: none;
            }
